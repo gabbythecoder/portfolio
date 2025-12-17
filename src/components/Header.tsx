@@ -1,7 +1,7 @@
 export default function Header() {
-    return (
-        <header>
-            <h1>Gabby French</h1>
-        </header>
-    )
+  return (
+    <header className="w-full p-4">
+      <h1>GabbyFrench.</h1>
+    </header>
+  );
 }
