@@ -5,8 +5,8 @@ export default function HomePage() {
       <section
         className="min-h-screen flex flex-col items-center justify-center"
       >
-        <h1 className="sm:text-7xl font-bold">Gabby French</h1>
-        <p className="mt-4 text-xl">Junior Full-Stack Developer</p>
+        <h1 className="sm:text-8xl text-2xl font-bold text-center px-2">Gabby French</h1>
+        <p className="mt-4 sm:text-2xl">Junior Full-Stack Developer</p>
       </section>
 
       <section
